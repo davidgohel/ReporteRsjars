@@ -7,6 +7,8 @@ these components is included below):
 - Apache Commons IO (see http://commons.apache.org)
 - Apache Commons Lang (see http://commons.apache.org)
 - Apache Commons Logging (see http://commons.apache.org)
+- Apache Commons Codec (see http://commons.apache.org/proper/commons-codec/)
+- Apache Commons Imaging (see http://commons.apache.org/proper/commons-imaging/)
 - Apache Log4j (see http://logging.apache.org/log4j/1.2)
 - SLF4J (see http://www.slf4j.org)
 
