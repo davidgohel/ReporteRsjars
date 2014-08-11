@@ -26,7 +26,7 @@ From an R console (R >= 3.0):
 **Binary package**
 
 A package is available here:
-https://github.com/davidgohel/ReporteRsjars/releases/tag/v0.1
+https://github.com/davidgohel/ReporteRsjars/releases/tag/v0.2
     
 	
 License
