@@ -2,10 +2,21 @@ Package: ReporteRsjars
 Version: 0.0.2
 Title: External jars required for package ReporteRs
 Description: External jars required for package ReporteRs. ReporteRs is an 
-	R package for creating Microsoft Word document (>=2007), Microsoft 
-	Powerpoint document (>=2007) and HTML documents from R.
-Date: 2014-08-09
-Author: David Gohel <david.gohel@lysis-consultants.fr>
+  R package for creating Microsoft Word document (>=2007), Microsoft 
+  Powerpoint document (>=2007) and HTML documents from R.
+Date: 2014-08-12
+Authors@R: c(person("David", "Gohel", role = c("aut", "cre"),
+      email = "david.gohel@lysis-consultants.fr"),
+    person("Jason", "Harrop", role = c("ctb", "cph"),
+      comment = "docx4j java library"),
+    person("Apache Software Foundation", role = c("ctb", "cph"),
+      comment = "Apache Commons java libraries" ),
+    person("SLF4J", role = c("ctb", "cph"),
+      comment = "Simple Logging Facade for Java" ) )
+Author: David Gohel [aut, cre],
+  Jason Harrop [ctb, cph] (docx4j java library),
+  Apache Software Foundation [ctb, cph] (Apache Commons java libraries),
+  SLF4J [ctb, cph] (Simple Logging Facade for Java)
 Maintainer: David Gohel <david.gohel@lysis-consultants.fr>
 Depends:
     R (>= 3.0)

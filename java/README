@@ -1,0 +1,11 @@
+Sources for the used jars are available here:
+
+- docx4j: http://www.docx4java.org
+- Apache XML Graphics Commons: http://commons.apache.org
+- Apache Commons IO: http://commons.apache.org
+- Apache Commons Lang: http://commons.apache.org
+- Apache Commons Logging: http://commons.apache.org
+- Apache Commons Codec: http://commons.apache.org/proper/commons-codec/
+- Apache Commons Imaging: http://commons.apache.org/proper/commons-imaging/
+- Apache Log4j: http://logging.apache.org/log4j/1.2
+- SLF4J: http://www.slf4j.org
