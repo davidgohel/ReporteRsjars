@@ -10,12 +10,13 @@ Authors@R: c(person("David", "Gohel", role = c("aut", "cre"),
     person("Jason", "Harrop", role = c("ctb", "cph"),
       comment = "docx4j java library"),
     person("Apache Software Foundation", role = c("ctb", "cph"),
-      comment = "Apache Commons java libraries" ),
+      comment = "Apache Commons java libraries and log4j" ),
     person("SLF4J", role = c("ctb", "cph"),
       comment = "Simple Logging Facade for Java" ) )
 Author: David Gohel [aut, cre],
   Jason Harrop [ctb, cph] (docx4j java library),
-  Apache Software Foundation [ctb, cph] (Apache Commons java libraries),
+  Apache Software Foundation [ctb, cph] (Apache Commons java libraries
+    and log4j),
   SLF4J [ctb, cph] (Simple Logging Facade for Java)
 Maintainer: David Gohel <david.gohel@lysis-consultants.fr>
 Depends:

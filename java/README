@@ -1,11 +1,12 @@
 Sources for the used jars are available here:
 
-- docx4j: http://www.docx4java.org
-- Apache XML Graphics Commons: http://commons.apache.org
-- Apache Commons IO: http://commons.apache.org
-- Apache Commons Lang: http://commons.apache.org
-- Apache Commons Logging: http://commons.apache.org
-- Apache Commons Codec: http://commons.apache.org/proper/commons-codec/
-- Apache Commons Imaging: http://commons.apache.org/proper/commons-imaging/
-- Apache Log4j: http://logging.apache.org/log4j/1.2
-- SLF4J: http://www.slf4j.org
+- Apache Commons Codec: http://archive.apache.org/dist/commons/codec/source/commons-codec-1.3-src.tar.gz
+- Apache Commons IO: http://archive.apache.org/dist/commons/io/source/commons-io-1.3.1-src.tar.gz
+- Apache Commons Lang: http://archive.apache.org/dist/commons/lang/source/commons-lang-2.4-src.tar.gz
+- Apache Commons Logging: http://archive.apache.org/dist/commons/logging/source/commons-logging-1.1.1-src.tar.gz
+- docx4j: https://github.com/plutext/docx4j/archive/docx4j-3.0.0.tar.gz
+- Apache Log4j: http://archive.apache.org/dist/logging/log4j/1.2.15/apache-log4j-1.2.15.tar.gz
+- Apache Commons Imaging (previously known as Apache Commons Sanselan): http://mirrors.ircam.fr/pub/apache//commons/sanselan/source/apache-sanselan-incubating-0.97-src.tar.gz
+- SLF4J API: http://repo2.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-sources.jar
+- SLF4J LOG4J-12 Binding: http://repo2.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5-sources.jar
+- Apache XML Graphics Commons: http://repo1.maven.org/maven2/org/apache/xmlgraphics/xmlgraphics-commons/1.4/xmlgraphics-commons-1.4-sources.jar

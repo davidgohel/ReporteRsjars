@@ -1,21 +1,28 @@
-The ReporteRsjars package inludes open source software components. The following
+The ReporteRsjars package includes open source software components. The following
 is a list of these components (full copy of the license agreements used by
 these components is included below):
 
-- docx4j (see http://www.docx4java.org) which use the following
-- Apache XML Graphics Commons (see http://commons.apache.org)
-- Apache Commons IO (see http://commons.apache.org)
-- Apache Commons Lang (see http://commons.apache.org)
-- Apache Commons Logging (see http://commons.apache.org)
 - Apache Commons Codec (see http://commons.apache.org/proper/commons-codec/)
-- Apache Commons Imaging (see http://commons.apache.org/proper/commons-imaging/)
+- Apache Commons IO (see http://commons.apache.org/proper/commons-io/)
+- Apache Commons Lang (see http://commons.apache.org/proper/commons-lang/)
+- Apache Commons Logging (see http://commons.apache.org/proper/commons-logging/)
+- docx4j (see http://www.docx4java.org)
 - Apache Log4j (see http://logging.apache.org/log4j/1.2)
-- SLF4J (see http://www.slf4j.org)
+- Apache Commons Imaging, previously known as Apache Commons Sanselan (see http://commons.apache.org/proper/commons-imaging/)
+- SLF4J API (see http://www.slf4j.org/)
+- SLF4J LOG4J-12 Binding (see http://www.slf4j.org/)
+- Apache XML Graphics Commons (see http://xmlgraphics.apache.org/commons/)
 
-License (all above components are under the same license)
+License for:
+- Apache Commons Codec
+- Apache Commons IO
+- Apache Commons Lang
+- Apache Commons Logging
+- docx4j
+- Apache Log4j
+- Apache Commons Imaging
+- Apache XML Graphics Commons
 ----------------------------------------------------------------------
-
-
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
