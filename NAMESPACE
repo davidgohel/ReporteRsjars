@@ -1,1 +1,1 @@
-importFrom(rJava,.jpackage)
+importFrom(rJava,.jaddClassPath)

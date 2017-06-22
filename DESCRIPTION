@@ -1,10 +1,9 @@
 Package: ReporteRsjars
-Version: 0.0.2
+Version: 0.0.2900
 Title: External jars required for package ReporteRs
 Description: External jars required for package ReporteRs. ReporteRs is an 
   R package for creating Microsoft Word document (>=2007), Microsoft 
   Powerpoint document (>=2007) and HTML documents from R.
-Date: 2014-08-12
 Authors@R: c(person("David", "Gohel", role = c("aut", "cre"),
       email = "david.gohel@lysis-consultants.fr"),
     person("Jason", "Harrop", role = c("ctb", "cph"),
