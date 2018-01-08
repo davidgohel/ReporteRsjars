@@ -22,6 +22,6 @@ Depends:
     R (>= 3.0)
 Imports:
     rJava
-SystemRequirements: java (>= 1.6)
+SystemRequirements: java (>= 6)
 License: GPL-3
 Copyright: See file COPYRIGHTS.
