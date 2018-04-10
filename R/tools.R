@@ -1,14 +1,10 @@
 .onLoad= function(libname, pkgname){
-  .jpackage( pkgname, lib.loc = libname )
+  .jpackage(name = pkgname, jars = "*")
 
   jv <- .jcall("java/lang/System", "S", "getProperty", "java.runtime.version")
-  reg <- "([0-9]+)\\.([0-9]+)\\.(.*)"
-  majorv <- as.integer(gsub(reg, "\\1", jv))
-  minorv <- as.integer(gsub(reg, "\\2", jv))
-  if(majorv == 1 ){
-    if( minorv < 6 ) {
-      stop("java version should be at minimum version 6 (>=1.6)")
-    }
+  if(substr(jv, 1L, 2L) == "1.") {
+    jvn <- as.numeric(paste0(strsplit(jv, "[.]")[[1L]][1:2], collapse = "."))
+    if(jvn < 1.6) stop("Java >= 6 is needed for this package but not available")
   }
 
   invisible()
